@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+h1, h2{
+    font-family: 'Lobster', cursive;
+    justify-content: center;
+    text-align: center;
+    color: violet;
+    font-size: 8em;
+}
